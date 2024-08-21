@@ -1,6 +1,6 @@
-# Video Detection Project
+# Surgical Training Detection Project
 
-This project uses a detector to analyze a video and draw detections on it. It can also save the detected frames to a specified directory.
+This project uses a detector to analyze a surgical training video and draw detections on it. It can also save the detected frames to a specified directory.
 
 ## Requirements
 
