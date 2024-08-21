@@ -38,9 +38,13 @@ Run the main script `main.py` with the following arguments:
    ```
 
 2. Run detection on a video and save the detected frames to a directory:
+
    ```sh
    python main.py -v path/to/video.mp4 -s path/to/save/frames
    ```
+
+   <img src=".images/41735.jpg" alt="Example 1" width="500"/>
+   <img src=".images/73303.jpg" alt="Example 2" width="500"/>
 
 ## Project Structure
 
