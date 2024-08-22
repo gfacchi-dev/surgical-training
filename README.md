@@ -53,7 +53,7 @@ Run the main script `main.py` with the following arguments:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open issues or pull requests to improve the project.
+Contributions are welcome. Feel free to open issues or pull requests to improve the project.
 
 ## License
 
