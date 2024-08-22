@@ -1,5 +1,7 @@
 # Surgical Training Detection Project
-
+<a target="_blank" href="https://colab.research.google.com/github/gfacchi-dev/surgical-training/blob/main/demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a><br/>
 This project uses a detector to analyze a surgical training video and draw detections on it. It can also save the detected frames to a specified directory.
 
 ## Requirements
